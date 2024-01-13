@@ -1,6 +1,6 @@
 ### Hi there 👋, SunshineXD04
 #### AFK GANG
-![AFK GANG](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![AFK GANG](	https://s4.aconvert.com/convert/p3r68-cdx67/a3bib-dfr99.webp)
 
 Soy principiante, me interesa la ciberseguridad, estoy estudiando Programación y me gustaría aprender hacking, robótica y otras cosas.
 
@@ -21,5 +21,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsunshine&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mrsunshine)  
-
-
