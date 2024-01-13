@@ -1,6 +1,6 @@
 ### Hi there 👋, SunshineXD04
 #### AFK GANG
-![AFK GANG](	https://s4.aconvert.com/convert/p3r68-cdx67/a3bib-dfr99.webp)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 Soy principiante, me interesa la ciberseguridad, estoy estudiando Programación y me gustaría aprender hacking, robótica y otras cosas.
 
